@@ -1,0 +1,15 @@
+{
+    "name": "kelompok4/ayolomba_midtrans_php",
+    "description": "payment menggunakan midtrans",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "arsikecipta",
+            "email": "arsikepelangi15@gmail.com"
+        }
+    ],
+    "require": {
+        "veritrans/veritrans-php": "^1.2"
+    }
+}
